@@ -1,12 +1,15 @@
-# DD1331_P-Uppgift
-# Specifikation
+# Weekday Calculator 
+This program calculates the weekday of every given date. Input in the entry boxes of 'Year', 'Month' and 'Day'. Month must be written as a number between 1-12. Press "Calculate" button to return weekday of the given date.
 
-## Inledning
+Impleented as a final project in DD1331 Fundamentals of Programming. 
+## Specifikation
+
+### Inledning
 Jag tänker skapa ett Pythonprogram som frågar efter årtal (yyyy), månad (mm) och dag (dd) och därefter, med hjälp av lämpliga formler räkna ut vilken veckodag detta datum infaller eller inföll på. Själva beräkningen ska göras i en funktion som tar år, månad och dag som parametrar. Formlerna ger såklart veckodagen som heltal, men funktionen bör returnera veckodag i klartext.
 
 Programmet kommer köras som en GUI med inmatningsfält för år, månad, respektive dag samt fält för utmatning av veckodag. En av de största utmaningarna med detta projekt är först och främst att finna en lämplig formel för beräkningen, men även felhantering, då datum måste vara korrekt skrivna och inget annat än positiva heltal eller månadsnamnen får förekomma.
 
-## Användarscenarier
+### Användarscenarier
 Mata in årtal, månad och dag enligt formaten (yyyy), (mm)/månadsnamn, (dd). Om det inmatade datumet infaller med dagens datum kommer exempelvis följande skrivas ut:
 ```
 Today is a Monday
