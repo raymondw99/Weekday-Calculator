@@ -132,4 +132,4 @@ if __name__ == '__main__':
 """Deviation from framework as well as additional functions possible."""
 ```
 # Programflöde 
-Programmet börjar med att skapa ett GUI-fönster. Användaren matar sedan in år, månad och dag i respektive inmatningsfält. För att därefter få motta utskrift klickas knappen "Calculate". Meddelanden syns i "Weekday"-fältet.  Vid inkorrekt inmatning sker utskrift av felmeddelanden i det understa fältet. För att rensa utskrift eller inmatning klickas knappen "Clear". Om användaren i annat fall vill avsluta programmet klickas "Exit"-knappen. 
+Programmet börjar med att skapa ett GUI-fönster. Användaren matar sedan in år, månad och dag i respektive inmatningsfält. För att därefter få motta utskrift klickas knappen "Calculate". Meddelanden syns i "Weekday"-fältet.  Vid inkorrekt inmatning sker utskrift av felmeddelanden i det understa fältet. För att rensa utskrift eller inmatning klickas knappen "Clear". Om användaren i annat fall vill avsluta programmet klickas "Exit"-knappen.
