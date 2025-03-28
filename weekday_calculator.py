@@ -21,7 +21,7 @@ class Calculator_UI():
                        'November', 'november',
                        'December', 'december']
         master.title('Weekday Calculator')
-        master.geometry('410x380')
+        master.geometry('410x400')
         master.resizable(width = False, height = False)
         self.Label('Weekday Calculator', 18, 0)
         self.Label('This program determines the specific weekday'
